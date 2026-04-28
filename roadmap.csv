@@ -1,0 +1,17 @@
+Semana,Objetivo Principal,Tópicos de Estudo,Curso/Bootcamp DIO (com link),Prática no GitHub,Entrega/Checkpoint
+1,Configuração inicial,"Git, GitHub, Python básico","Bootcamp Automação de Dados com IA - https://www.dio.me/bootcamp/bootcamp-automacao-de-dados-com-ia",Criar repositório e primeiros commits,Repositório ativo com README inicial
+2,Fundamentos Python,"Estruturas de dados, funções","Formação Machine Learning Specialist - https://www.dio.me/formacao/machine-learning-specialist",Publicar scripts simples,Notebook com exercícios básicos
+3,Estatística básica,"Média, variância, distribuições","Bootcamp Automação de Dados com IA - https://www.dio.me/bootcamp/bootcamp-automacao-de-dados-com-ia",Notebook de estatística,Notebook com exemplos comentados
+4,Introdução ML,"Supervisionado vs não supervisionado","Formação Machine Learning Specialist - https://www.dio.me/formacao/machine-learning-specialist",Notebook com Scikit-Learn,Modelo simples em Iris dataset
+5,Regressão,"Linear e logística","Bootcamp BairesDev Machine Learning Training - https://www.dio.me/bootcamp/bairesdev-machine-learning-training",Notebook com regressão,Comparação de métricas
+6,Classificação,"Árvores de decisão, KNN","Formação Machine Learning Specialist - https://www.dio.me/formacao/machine-learning-specialist",Notebook com classificação,Projeto Iris completo
+7,Avaliação de modelos,"Accuracy, precision, recall","Bootcamp Automação de Dados com IA - https://www.dio.me/bootcamp/bootcamp-automacao-de-dados-com-ia",Notebook com métricas,Relatório com resultados
+8,Projeto prático,"Classificação com dataset real","Bootcamp BairesDev Machine Learning Training - https://www.dio.me/bootcamp/bairesdev-machine-learning-training",Notebook com pipeline,Projeto documentado
+9,Redes neurais,"TensorFlow/Keras básicos","Formação Machine Learning Specialist - https://www.dio.me/formacao/machine-learning-specialist",Notebook com rede simples,Classificação de imagens
+10,CNNs,"Redes convolucionais","Bootcamp BairesDev Machine Learning Training - https://www.dio.me/bootcamp/bairesdev-machine-learning-training",Notebook com CNN,Projeto de imagens
+11,Nuvem,"Fundamentos AWS/Azure/GCP","Bootcamp Automação de Dados com IA - https://www.dio.me/bootcamp/bootcamp-automacao-de-dados-com-ia",Repositório para deploy,API Flask simples
+12,Deploy,"Docker + Flask","Formação Machine Learning Specialist - https://www.dio.me/formacao/machine-learning-specialist",Código de deploy,Modelo rodando em nuvem
+13,Projeto final,"Classificador de Sentimentos","Bootcamp BairesDev Machine Learning Training - https://www.dio.me/bootcamp/bairesdev-machine-learning-training",Repositório dedicado,Dataset IMDb carregado
+14,Treinamento,"Pré-processamento + treino","Formação Machine Learning Specialist - https://www.dio.me/formacao/machine-learning-specialist",Notebook com resultados,Modelo com >80% accuracy
+15,Documentação,"README completo + slides","Bootcamp Automação de Dados com IA - https://www.dio.me/bootcamp/bootcamp-automacao-de-dados-com-ia",Atualizar repositório,Documentação final
+16,Preparação,"Revisão + entrevistas simuladas","Formação Machine Learning Specialist - https://www.dio.me/formacao/machine-learning-specialist",Publicar resumo no GitHub,Portfólio pronto
